@@ -1,2 +1,2 @@
 2nd readme
-Studying at ALX SE at first was exciting
+Studying at ALX is an intensive experience
