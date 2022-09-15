@@ -1,2 +1,2 @@
 2nd readme
-Studying at ALX is an intensive experience
+Studying at ALX is an intensive
